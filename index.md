@@ -2,6 +2,8 @@ I am a second year PhD student at [University of Pennsylvania](https://www.upenn
 
 I am broadly interested in the intersections between statistics, optimization and theoretical computer science.
 
+Email: jinhobok \[at\] upenn \[dot\] edu
+
 ## Preprints
 _Shifted Interpolation for Differential Privacy_ [[arXiv]](https://arxiv.org/abs/2403.00278)[[code]](https://github.com/jinhobok/shifted_interpolation_dp)\
 J. Bok, W. Su, J. M. Altschuler
