@@ -3,5 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 title: Jinho Bok
+description: Email: jinhobok \[at\] upenn \[dot\] edu
 github:
   is_user_page: false
