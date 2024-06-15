@@ -6,3 +6,8 @@
 a {
   color:#003DA5;
 }
+
+a:hover, a:focus {
+  color:#002855;
+  font-weight: bold;
+}
