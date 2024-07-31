@@ -5,9 +5,9 @@ I am broadly interested in the intersections between statistics, optimization an
 Email: jinhobok \[at\] upenn \[dot\] edu
 
 ## Publications
-_Shifted Interpolation for Differential Privacy_ [[arXiv]](https://arxiv.org/abs/2403.00278)[[code]](https://github.com/jinhobok/shifted_interpolation_dp)\
+_Shifted Interpolation for Differential Privacy_ [[arXiv]](https://arxiv.org/abs/2403.00278)[[PMLR]](https://proceedings.mlr.press/v235/bok24a.html)[[code]](https://github.com/jinhobok/shifted_interpolation_dp)\
 J. Bok, W. Su, J. M. Altschuler\
-_ICML 2024._\
+_ICML 2024_\
 _FORC 2024 (non-archival track)._
 
 _On the Privacy of Noisy Stochastic Gradient Descent for Convex Optimization_ [[SICOMP]](https://epubs.siam.org/doi/10.1137/23M1556538)\
