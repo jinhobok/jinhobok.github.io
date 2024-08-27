@@ -4,7 +4,7 @@ I am broadly interested in the intersections between statistics, optimization an
 
 Email: jinhobok \[at\] upenn \[dot\] edu
 
-## Publications
+## Research
 _Shifted Interpolation for Differential Privacy_ [[arXiv]](https://arxiv.org/abs/2403.00278)[[PMLR]](https://proceedings.mlr.press/v235/bok24a.html)[[code]](https://github.com/jinhobok/shifted_interpolation_dp)\
 J. Bok, W. Su, J. M. Altschuler\
 _ICML 2024_\
