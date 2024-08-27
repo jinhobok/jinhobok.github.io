@@ -1,4 +1,4 @@
-I am a second year PhD student at [University of Pennsylvania](https://www.upenn.edu/) in [Wharton Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/).
+I am a third year PhD student at [University of Pennsylvania](https://www.upenn.edu/) in [Wharton Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/).
 
 I am broadly interested in the intersections between statistics, optimization and theoretical computer science.
 
