@@ -23,8 +23,8 @@ _FORC 2024 (non-archival track)._
 _On the Privacy of Noisy Stochastic Gradient Descent for Convex Optimization_ [[SICOMP]](https://epubs.siam.org/doi/10.1137/23M1556538)\
 (alph) J. M. Altschuler, J. Bok, K. Talwar\
 _SIAM Journal on Computing, 2024._\
-<span style="color: #333333;">(Preliminary conference version appeared as:</span>\
-<span style="color: #333333;">_Privacy of Noisy Stochastic Gradient Descent: More Iterations without More Privacy Loss_</span>
+<span style="color: #777777;">(Preliminary conference version appeared as:</span>\
+<span style="color: #777777;">_Privacy of Noisy Stochastic Gradient Descent: More Iterations without More Privacy Loss_</span>
 [[arXiv]](https://arxiv.org/abs/2205.13710)[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/18561617ca0b4ffa293166b3186e04b0-Abstract-Conference.html)\
-<span style="color: #333333;">J. M. Altschuler, K. Talwar</span>\
-<span style="color: #333333;">_NeurIPS 2022._)</span>
+<span style="color: #777777;">J. M. Altschuler, K. Talwar</span>\
+<span style="color: #777777;">_NeurIPS 2022._)</span>
