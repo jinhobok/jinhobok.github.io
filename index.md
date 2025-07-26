@@ -5,8 +5,15 @@ I am broadly interested in the intersections between statistics, optimization an
 Email: jinhobok \[at\] upenn \[dot\] edu
 
 ## Research
+_Learning Acceleration Algorithms for Fast Parametric Convex Optimization with Certified Robustness_ [[arXiv]](https://www.arxiv.org/abs/2507.16264)\
+R. Sambharya, J. Bok, N. Matni, G. Pappas\
+
+_Optimized Methods for Composite Optimization: A Reduction Perspective_ [[arXiv]](https://arxiv.org/abs/2506.23756)\
+J. Bok, J. M. Altschuler\
+(Preliminary conference version appeared as:\
 _Accelerating Proximal Gradient Descent via Silver Stepsizes_ [[arXiv]](https://arxiv.org/abs/2412.05497)\
-J. Bok, J. M. Altschuler
+J. Bok, J. M. Altschuler\
+_COLT 2025._)
 
 _Shifted Interpolation for Differential Privacy_ [[arXiv]](https://arxiv.org/abs/2403.00278)[[PMLR]](https://proceedings.mlr.press/v235/bok24a.html)[[code]](https://github.com/jinhobok/shifted_interpolation_dp)\
 J. Bok, W. Su, J. M. Altschuler\
@@ -16,8 +23,8 @@ _FORC 2024 (non-archival track)._
 _On the Privacy of Noisy Stochastic Gradient Descent for Convex Optimization_ [[SICOMP]](https://epubs.siam.org/doi/10.1137/23M1556538)\
 (alph) J. M. Altschuler, J. Bok, K. Talwar\
 _SIAM Journal on Computing, 2024._\
-(Preliminary conference version appeared as:\
-_Privacy of Noisy Stochastic Gradient Descent: More Iterations without More Privacy Loss_
+<span style="color: #333333;">(Preliminary conference version appeared as:\
+_Privacy of Noisy Stochastic Gradient Descent: More Iterations without More Privacy Loss_<\span>
 [[arXiv]](https://arxiv.org/abs/2205.13710)[[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/18561617ca0b4ffa293166b3186e04b0-Abstract-Conference.html)\
-J. M. Altschuler, K. Talwar\
-_NeurIPS 2022._)
+<span style="color: #333333;">J. M. Altschuler, K. Talwar\
+_NeurIPS 2022._)<\span>
