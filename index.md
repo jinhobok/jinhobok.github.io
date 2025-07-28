@@ -6,7 +6,7 @@ Email: jinhobok \[at\] upenn \[dot\] edu
 
 ## Research
 _Learning Acceleration Algorithms for Fast Parametric Convex Optimization with Certified Robustness_ [[arXiv]](https://www.arxiv.org/abs/2507.16264)[[code]](https://github.com/rajivsambharya/learn_algo_steps_robust)\
-R. Sambharya, J. Bok, N. Matni, G. Pappas\
+R. Sambharya, J. Bok, N. Matni, G. Pappas
 
 _Optimized Methods for Composite Optimization: A Reduction Perspective_ [[arXiv]](https://arxiv.org/abs/2506.23756)\
 J. Bok, J. M. Altschuler\
