@@ -1,10 +1,13 @@
-I am a fourth year PhD student at [University of Pennsylvania](https://www.upenn.edu/) in [Wharton Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/).
+I am a fourth year PhD student at the [University of Pennsylvania](https://www.upenn.edu/) in the [Wharton Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/).
 
 I am broadly interested in the intersections between statistics, optimization and theoretical computer science.
 
 Email: jinhobok \[at\] upenn \[dot\] edu
 
 ## Research
+_Detection of Local Geometry in Random Graphs: Information-theoretic and Computational Limits_ [[arXiv]](https://arxiv.org/abs/2603.24545)\
+(alph) J. Bok, S. Li, S. H. Yu
+
 _Learning Acceleration Algorithms for Fast Parametric Convex Optimization with Certified Robustness_ [[arXiv]](https://www.arxiv.org/abs/2507.16264)[[code]](https://github.com/rajivsambharya/learn_accel_steps_robust)\
 R. Sambharya, J. Bok, N. Matni, G. Pappas
 
