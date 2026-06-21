@@ -11,8 +11,9 @@ _Detection of Local Geometry in Random Graphs: Information-theoretic and Computa
 _Learning Acceleration Algorithms for Fast Parametric Convex Optimization with Certified Robustness_ [[arXiv]](https://www.arxiv.org/abs/2507.16264)[[code]](https://github.com/rajivsambharya/learn_accel_steps_robust)\
 R. Sambharya, J. Bok, N. Matni, G. Pappas
 
-_Optimized Methods for Composite Optimization: A Reduction Perspective_ [[arXiv]](https://arxiv.org/abs/2506.23756)\
+_Optimized Methods for Composite Optimization: A Reduction Perspective_ [[arXiv]](https://arxiv.org/abs/2506.23756)[[MP]](https://link.springer.com/article/10.1007/s10107-026-02377-7)\
 J. Bok, J. M. Altschuler\
+_Mathematical Programming: Series A, 2026._\
 (Preliminary conference version appeared as:\
 _Accelerating Proximal Gradient Descent via Silver Stepsizes_ [[arXiv]](https://arxiv.org/abs/2412.05497)[[PMLR]](https://proceedings.mlr.press/v291/bok25a.html)\
 J. Bok, J. M. Altschuler\
