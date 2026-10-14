@@ -1,10 +1,16 @@
-I am a fourth year PhD student at the [University of Pennsylvania](https://www.upenn.edu/) in the [Wharton Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/).
+I am a final year PhD student at the [University of Pennsylvania](https://www.upenn.edu/) in the [Wharton Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/).
 
-I am broadly interested in the intersections between statistics, optimization and theoretical computer science.
+I am interested in the theory and practice of differential privacy and continuous optimization. My recent work focuses on developing new frameworks in privacy accounting and the design and analysis of first-order methods. I also study statistical inference in structured settings, such as random graphs.
+
+**I am looking for industry and academic research positions starting in Summer 2027.**
 
 Email: jinhobok \[at\] upenn \[dot\] edu
 
 ## Research
+
+_Can Rényi Accountants Beat Lossless Accountants for DP-SGD?_ [[arXiv]](https://arxiv.org/abs/2610.17120)\
+J. Bok
+
 _Detection of Local Geometry in Random Graphs: Information-theoretic and Computational Limits_ [[arXiv]](https://arxiv.org/abs/2603.24545)\
 (alph) J. Bok, S. Li, S. H. Yu
 
