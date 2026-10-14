@@ -8,7 +8,7 @@ Email: jinhobok \[at\] upenn \[dot\] edu
 
 ## Research
 
-_Can Rényi Accountants Beat Lossless Accountants for DP-SGD?_ [[arXiv]](https://arxiv.org/abs/2610.17120)\
+_Can Rényi Accountants Beat Lossless Accountants for DP-SGD?_ [[arXiv]](https://arxiv.org/abs/2610.17120)[[code]](https://github.com/jinhobok/renyi_vs_lossless_dpsgd)\
 J. Bok
 
 _Detection of Local Geometry in Random Graphs: Information-theoretic and Computational Limits_ [[arXiv]](https://arxiv.org/abs/2603.24545)\
