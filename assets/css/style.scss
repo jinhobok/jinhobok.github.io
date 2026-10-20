@@ -40,3 +40,27 @@ section {
     width: auto;
   }
 }
+
+.photo-text {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.photo-text img {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.photo-text > div {
+  flex: 1;
+  min-width: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .photo-text {
+    flex-direction: column;
+  }
+}
