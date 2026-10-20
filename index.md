@@ -1,7 +1,7 @@
 <div class="photo-text">
   <div>
     <p>
-      I am a final year PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a> in the <a href="https://statistics.wharton.upenn.edu/">Wharton Department of Statistics and Data Science</a>.
+      I am a final year PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a> in the <a href="https://statistics.wharton.upenn.edu/">Wharton Department of Statistics and Data Science</a>. I am advised by <a href="https://jasonaltschuler.github.io/">Jason Altschuler</a> and closely work with <a href="https://sophieyu.me/">Sophie Yu</a> and <a href="https://fifalsp.github.io/">Shuangping Li</a>.
     </p>
     <p>
       I am interested in the theory and practice of differential privacy and continuous optimization. My recent work focuses on developing new frameworks in privacy accounting and the design and analysis of first-order methods. I also study statistical inference in structured settings, such as random graphs.
