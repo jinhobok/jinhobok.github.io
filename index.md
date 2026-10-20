@@ -1,16 +1,16 @@
 <div class="photo-text">
   <div>
     <p>
-      I am a final year PhD student at the [University of Pennsylvania](https://www.upenn.edu/) in the [Wharton Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/).
+      I am a final year PhD student at the <a href="https://www.upenn.edu/">University of Pennsylvania</a> in the <a href="https://statistics.wharton.upenn.edu/">Wharton Department of Statistics and Data Science</a>.
     </p>
     <p>
       I am interested in the theory and practice of differential privacy and continuous optimization. My recent work focuses on developing new frameworks in privacy accounting and the design and analysis of first-order methods. I also study statistical inference in structured settings, such as random graphs.
     </p>
     <p>
-      **I am looking for industry and academic research positions starting in Summer 2027.**
+      <strong>I am looking for industry and academic research positions starting in Summer 2027.</strong>
     </p>
     <p>
-      Email: jinhobok \[at\] upenn \[dot\] edu
+      Email: jinhobok [at] upenn [dot] edu
     </p>
   </div>
   <img src="assets/images/profile.jpg" alt="Profile">
